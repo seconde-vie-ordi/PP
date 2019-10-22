@@ -1,0 +1,22 @@
+<a style='font-size: 20pt' href='./'>🏠 Accueil</a>
+- **Obsolescence programmée**
+  - [Mise en contexte](/1/Mise_en_contexte.md)
+  - [Qu'est ce que c'est?](/1/description.md)
+
+- **Le logiciel libre**
+  - [C'est quoi un logiciel libre?](/2/description.md)
+  - [Avant](/2/avant.md)
+
+- **Guide basique sur Linux**
+  - [Différence fondamentale](/3/difference.md)
+  - [Installation](/3/installation.md)
+  - [Première chose à faire](/3/apres.md)
+  - [Récupérer votre clé USB](/3/usb.md)
+
+- **S'adapter à Linux**
+  - [Applications alternatives](/4/alternatives.md)
+  - [Applications Android](/4/android.md)
+  - [Applications Windows](4/wine.md)
+
+[À propos](a_propos.md)
+[Liste des changements](changelog.md)
