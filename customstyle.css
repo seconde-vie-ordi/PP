@@ -1,0 +1,18 @@
+:root{
+  --base-line-height: 1.5;
+  --mono-saturation : 10%;
+}
+
+#home {
+  font-size: 15pt;
+  background-color: #394246;
+  border-radius: 10%;
+  width: 100px;
+  text-decoration: none;
+  line-height: 1.25;
+  transition: background-color ease 0.5s;
+}
+
+#home:hover{
+  background-color: #444c52;
+}

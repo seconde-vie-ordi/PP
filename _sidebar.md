@@ -1,4 +1,4 @@
-<a style='font-size: 20pt' href='./'>🏠 Accueil</a>
+<a id="home" href='./'>🏠 Accueil</a>
 - **Obsolescence programmée**
   - [Mise en contexte](/1/Mise_en_contexte.md)
   - [Qu'est ce que c'est?](/1/description.md)
@@ -19,4 +19,4 @@
   - [Applications Windows](4/wine.md)
 
 [À propos](a_propos.md)
-[Liste des changements](changelog.md)
+- [Liste des changements](changelog.md)
