@@ -5,7 +5,8 @@
 
 ## Créer une clé USB d'installation
 1. Télécharger l'édition _User_ de KDE Neon sur [le site officiel](https://neon.kde.org/download). (Environ 1.5GB)
-<img src='./3/image/kdeneon.png' alt="KDE Neon"></img>
+![KDE Neon](../3/image/kdeneon.png)
+
 2. Installer le logiciel [Etcher](https://www.balena.io/etcher/).
 
 

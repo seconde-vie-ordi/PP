@@ -13,7 +13,7 @@ sudo apt install partitionmanager -y
 ![Instructions](../3/image/usb.gif)
 
 
-!>  Un bug étrange affecte Windows le rendant incapable de détecter les clés USB vide. Pour le contourner, vous devez simplement créer un fichier sur votre clé USB.
+!>  Un bug étrange affecte Windows le rendant incapable de détecter les clés USB vides. Pour le contourner, vous devez simplement créer un fichier sur votre clé USB.
 
 ## En savoir plus
 Cette technique pour récupérer votre clé USB peut marcher avec des clés USB corrompue (Comme celles qui ne sont plus détectées par Windows après avoir été branché dans un Mac).
