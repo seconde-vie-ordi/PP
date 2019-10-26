@@ -9,7 +9,7 @@
 
 ## Accélérer le système
 
-!> Ces manipulations ne sont pas nécessaire si votre système n'a pas de misère avec les animations. Ce sont juste les très vieux ordinateurs (+ de 10 ans) qui peuvent avoir des problèmes.
+!> Ces manipulations ne sont pas nécessaire si votre système n'a pas de misère avec les animations.
 1. Ouvrir l'application _Configuration du système_.
 2. Aller dans la section **Espace de travail** > **Comportement de l'espace de travail** > **Compositeur**
 3. Décocher toutes les animations.

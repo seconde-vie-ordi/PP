@@ -5,16 +5,35 @@
 }
 
 #home {
-  font-size: 15pt;
+  display: inline-block;
+  font-size: 12pt;
   background-color: #394246;
   border-radius: 4.2%;
   padding: 5px;
-  width: 105px;
+  margin: 0px;
   text-decoration: none;
   line-height: 1.25;
-  transition: background-color ease 0.42s;
+  transition: background-color ease 1.42s;
+  width: 90px;
 }
 
 #home:hover{
-  background-color: #444c52;
+  background-color: #424c51;
+}
+
+#aide {
+  display: inline-block;
+  font-size: 12pt;
+  background-color: #394246;
+  border-radius: 4.2%;
+  padding: 5px;
+  margin: 0px;
+  text-decoration: none;
+  line-height: 1.25;
+  transition: background-color ease-in 0.42s;
+  width: 70px;
+}
+
+#aide:hover{
+  background-color: #424c51;
 }

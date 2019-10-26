@@ -1,4 +1,5 @@
 <a id="home" href='./'>🏠 Accueil</a>
+<a id="aide" href='https://discord.gg/EGntMDp'>🚑 Aide</a>
 - **Obsolescence programmée**
   - [Mise en contexte](/1/Mise_en_contexte.md)
   - [Qu'est ce que c'est?](/1/description.md)
@@ -17,6 +18,3 @@
   - [Applications alternatives](/4/alternatives.md)
   - [Applications Android](/4/android.md)
   - [Applications Windows](4/wine.md)
-
-[À propos](a_propos.md)
-- [Liste des changements](changelog.md)
