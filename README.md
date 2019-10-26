@@ -1,5 +1,5 @@
 # Mon projet personnel
-Il est divisé en quatre sections.
+Il est divisé en quatre sections. Si vous avez besoin d'aide n'hésitez pas à venir me poser des questions en appuyant sur le bouton <a id="aide" href='https://discord.gg/EGntMDp' target='blank'>🚑 Aide</a>.
 
 
 ### [L'obsolescence programmée](./1/description.md)

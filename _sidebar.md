@@ -1,5 +1,5 @@
 <a id="home" href='./'>🏠 Accueil</a>
-<a id="aide" href='https://discord.gg/EGntMDp'>🚑 Aide</a>
+<a id="aide" href='https://discord.gg/EGntMDp' target='blank'>🚑 Aide</a>
 - **Obsolescence programmée**
   - [Mise en contexte](/1/Mise_en_contexte.md)
   - [Qu'est ce que c'est?](/1/description.md)

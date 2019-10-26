@@ -21,7 +21,7 @@
 6. Appuyer sur cette touche et vous verrez un menu avec les différents choix de démarrage, sélectionner la clé USB avec les flèches du clavier et appuyer sur la touche enter.
 
 ## Le test
-Une fois que KDE Neon est démarré, vous pourrez tester sans risquer d'effacer vos données le système. Lorsque vous exécutez KDE Neon à partir de la clé USB et que tout fonctionne correctement, il est sûr à 99% que l'installation va marcher du premier coup. Pour ceux qui ont des problèmes, venez ici.
+Une fois que KDE Neon est démarré, vous pourrez tester sans risquer d'effacer vos données le système. Lorsque vous exécutez KDE Neon à partir de la clé USB et que tout fonctionne correctement, il est sûr à 99% que l'installation va marcher du premier coup.
 
 ## L'installation
 À partir de ce moment, vous n'avez qu'à cliquez sur l'icône _Install KDE Neon_ et suivez les étapes de l'installateur. Lorsque vous arriverez à la section disque sachez que l'option par défaut va remplacer votre système d'exploitation précédent, donc tout effacer.
