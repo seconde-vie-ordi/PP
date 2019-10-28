@@ -12,7 +12,7 @@ Cette section explique la philosophie du logiciel libre et son histoire.
 
 ### [Guide basique de Linux](./3/difference.md)
 
-Cette section montre comment faire une installation basique de Linux pour donner une seconde vie au vieux ordinateur.
+Cette section montre comment faire une installation basique de Linux pour donner une seconde vie aux vieux ordinateurs ou aux ordinateurs bas de gamme.
 
 ### [Tutoriels avancés](./4/alternatives.md)
 

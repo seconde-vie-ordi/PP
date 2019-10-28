@@ -14,7 +14,6 @@
   text-decoration: none;
   line-height: 1.25;
   transition: background-color ease 1.42s;
-  width: 100px;
 }
 
 #home:hover{
@@ -31,7 +30,6 @@
   text-decoration: none;
   line-height: 1.25;
   transition: background-color ease-in 0.42s;
-  width: 80px;
 }
 
 #aide:hover{
