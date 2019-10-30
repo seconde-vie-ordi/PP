@@ -13,11 +13,12 @@
   margin: 0px;
   text-decoration: none;
   line-height: 1.25;
-  transition: background-color ease 1.42s;
+  transition: linear 0.2s;
 }
 
 #home:hover{
   background-color: #505c62;
+  transform: scale(1.025);
 }
 
 #aide {
@@ -29,9 +30,11 @@
   margin: 0px;
   text-decoration: none;
   line-height: 1.25;
-  transition: background-color ease-in 0.42s;
+  transition: linear 0.2s;
 }
 
 #aide:hover{
   background-color: #505c62;
+  transform: scale(1.025);
+  animation: none;
 }
