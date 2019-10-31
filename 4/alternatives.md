@@ -1,5 +1,5 @@
 ## Pourquoi des applications alternatives?
-Certaines applications ne sont tout simplement pas disponible sous Linux, mais il existe de nombreuses alternatives libres et gratuites qui peuvent les remplacer et qui sont en général plus légère pour les vieux ordinateurs.
+Certaines applications ne sont tout simplement pas disponible sous Linux, mais il existe de nombreuses alternatives libres et gratuites qui peuvent les remplacer et qui sont en général plus légère pour les vieux ordinateurs. Sachez qu'en général tout application ayant une version Web peut être utilisé avec KDE Neon (ex:Google Docs).
 
 ## Les alternatives
 Voici une série d'alternatives par catégorie pour installer l'alternative vous n'avez qu'à exécuter la ligne de commande associée.
