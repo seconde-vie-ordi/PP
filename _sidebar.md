@@ -10,12 +10,13 @@
 
 - **Guide basique sur Linux**
   - [~~C'est quoi Linux?~~](/3/linux.md)
-  - [~~Différence fondamentale~~](/3/difference.md)
+  - [Différence fondamentale](/3/difference.md)
   - [Installation](/3/installation.md)
   - [Première chose à faire](/3/apres.md)
   - [Récupérer votre clé USB](/3/usb.md)
 
 - **S'adapter à Linux**
-  - [~~Applications alternatives~~](/4/alternatives.md)
+  - [Applications alternatives](/4/alternatives.md)
+  - [~~Utiliser Libreoffice~~](/4/libreoffice.md)
   - [Applications Android](/4/android.md)
   - [Applications Windows](4/wine.md)

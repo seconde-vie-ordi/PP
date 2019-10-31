@@ -20,11 +20,14 @@ sudo add-apt-repository ppa:libreoffice/ppa -y && sudo pkcon refresh && sudo apt
 Pour remplacer Photoshop:
 - [Krita](https://krita.org/fr/)
 
-
 ```bash
 sudo apt install krita
 ```
+- [Gimp](https://www.gimp.org/fr/)
 
+```bash
+sudo add-apt-repository ppa:otto-kesselgulasch/gimp -y && sudo pkcon refresh && sudo apt install gimp
+```
 #### ** Multimedia **
 Comme logiciel de montage vidéo:
 - [Kdenlive](https://kdenlive.org/fr/)
