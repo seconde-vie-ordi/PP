@@ -7,6 +7,7 @@
 - **Le logiciel libre**
   - [~~C'est quoi un logiciel libre?~~](/2/description.md)
   - [~~Avant~~](/2/avant.md)
+  - [~~Le future~~](/2/futur.md)
 
 - **Guide basique sur Linux**
   - [C'est quoi Linux?](/3/linux.md)
