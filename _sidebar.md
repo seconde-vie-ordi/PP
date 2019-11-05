@@ -19,5 +19,7 @@
 - **S'adapter à Linux**
   - [Applications alternatives](/4/alternatives.md)
   - [Utiliser Libreoffice](/4/libreoffice.md)
+  - [Utiliser Gimp](/4/gimp.md)
   - [Applications Android](/4/android.md)
   - [Applications Windows](4/wine.md)
+  - [~~Interface MacOS~~](4/macui.md)

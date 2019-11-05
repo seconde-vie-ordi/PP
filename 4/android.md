@@ -1,5 +1,5 @@
 ## Mise en garde
-Faire attention le système pour les applications Android peut ralentir le système pour les ordinateurs qui sont déjà lent. Certaines applications ne marchent pas.
+Faire attention le système pour les applications Android peut ralentir le système pour les ordinateurs qui sont déjà lent aussi certaines applications ne marchent pas, c'est pourquoi qu'il est toujours préférable d'utiliser des applications natives.
 
 ## Installer le gestionnaire d'application
 1. Ouvrer l'application _Konsole_.
