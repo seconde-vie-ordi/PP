@@ -22,4 +22,3 @@
   - [Utiliser Gimp](/4/gimp.md)
   - [Applications Android](/4/android.md)
   - [Applications Windows](4/wine.md)
-  - [~~Interface MacOS~~](4/macui.md)
