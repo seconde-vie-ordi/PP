@@ -1,1 +1,2 @@
-L'obsolescence programmée est 
+## C'est quoi l'obsolescence programmée
+L'obsolescence programmée est
