@@ -1,5 +1,5 @@
 ## Pourquoi des applications alternatives?
-Certaines applications ne sont tout simplement pas disponible sous Linux, mais il existe de nombreuses alternatives libres et gratuites qui peuvent les remplacer et qui sont en général plus légère pour les vieux ordinateurs. Sachez qu'en général tout application ayant une version Web peut être utilisé avec KDE Neon (ex:Google Docs).
+Certaines applications ne sont tout simplement pas disponible sous Linux, mais il existe de nombreuses alternatives libres et gratuites qui peuvent les remplacer et qui sont en général plus légère pour les vieux ordinateurs. Sachez qu'en général tout application ayant une version Web peut être utilisé va être compatible (ex:Google Docs).
 
 ## Les alternatives
 Voici une série d'alternatives par catégorie pour installer l'alternative vous n'avez qu'à exécuter la ligne de commande associée.
@@ -7,6 +7,10 @@ Voici une série d'alternatives par catégorie pour installer l'alternative vous
 <!-- tabs:start -->
 
 #### ** Bureautique **
+Pour lire des pdf, mais aussi toutes sortes de format.
+- Okular (Installé par défaut)
+
+
 Pour remplacer Office (Word, PowerPoint et Excel):
 
 - [Libreoffice](https://fr.libreoffice.org/) (Writer, Impress et Calc)
@@ -28,7 +32,7 @@ sudo apt install krita
 ```bash
 sudo add-apt-repository ppa:otto-kesselgulasch/gimp -y && sudo pkcon refresh && sudo apt install gimp
 ```
-#### ** Multimedia **
+#### ** Multimédia **
 Comme logiciel de montage vidéo:
 - [Kdenlive](https://kdenlive.org/fr/)
 

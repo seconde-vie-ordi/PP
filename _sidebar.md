@@ -3,7 +3,7 @@
 - **Obsolescence programmée**
   - [~~Mise en contexte~~](/1/miseencontexte.md)
   - [~~Qu'est ce que c'est?~~](/1/description.md)
-  - [~~Qu'est ce que c'est?~~](/1/obsolescencelogicielle.md)
+  - [~~Obsolescence logicielle~~](/1/obsolescencelogicielle.md)
 
 - **Le logiciel libre**
   - [~~C'est quoi un logiciel libre?~~](/2/description.md)
