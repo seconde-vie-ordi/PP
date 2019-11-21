@@ -1,3 +1,6 @@
+## C'est quoi
+Dans ce tutoriel, je vais vous montrer comment installer des applications Android sur votre ordinateur à l'aide d'un logiciel nommé _Anbox_.
+
 ## Mise en garde
 Faire attention le système pour les applications Android peut ralentir le système pour les ordinateurs qui sont déjà lent aussi certaines applications ne marchent pas, c'est pourquoi qu'il est toujours préférable d'utiliser des applications natives.
 

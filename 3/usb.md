@@ -1,3 +1,6 @@
+## Avant de commencer
+Ce tutoriel est surtout utile si lorsque vous branchez votre clé dans un PC ou dans un Mac et qu'elle n'est pas détectée. Si elle est détectée vous aurez probablement la possibilité de la reformater dans un dialogue, dans ce cas vous n'avez qu'à la reformater ainsi et elle sera comme avant, sinon suivez ce tutoriel pour la reformater. 
+
 ## Prérequis  
 Pour récupérer votre clé USB, il vous faudra installer un logiciel de partition. Pour l'installer sous Linux, il vous suffit d'ouvrir le programme _Konsole_ et d'entrer les lignes de codes ci-dessous.  
 ```bash

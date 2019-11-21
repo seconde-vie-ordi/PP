@@ -1,5 +1,7 @@
-## Mise en garde
+## Comment installer des applications Windows?
+Dans ce tutoriel, je vais vous montrer comment pouvoir installer des applications Windows(.exe) si l'application que vous avez besoin n'est pas disponible sous Linux.
 
+## Mise en garde
 Ce ne sont pas toutes les applications Windows qui marchent pour savoir si l'application que vous voulez installer marche, vous pouvez consulter ce [site](https://appdb.winehq.org/index.php).
 
 ## Installer des applications Windows avec Wine
