@@ -1,8 +1,10 @@
 <a id="home" href='./'>🏠 Accueil</a>
 <a id="aide" href='https://discord.gg/EGntMDp' target='blank'>🚑 Aide</a>
 - **Obsolescence programmée**
-  - [~~Mise en contexte~~](/1/miseencontexte.md)
-  - [~~Qu'est ce que c'est?~~](/1/description.md)
+
+  - [Qu'est ce que c'est?](/1/description.md)
+  - [~~Un peu d'histoire~~](/1/histoire.md)
+  - [~~Conséquence~~](/1/consequence.md)
   - [~~Obsolescence logicielle~~](/1/obsolescencelogicielle.md)
 
 - **Le logiciel libre**
