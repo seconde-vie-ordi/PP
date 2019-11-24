@@ -3,7 +3,7 @@
 - **Obsolescence programmée**
 
   - [Qu'est ce que c'est?](/1/description.md)
-  - [~~Un peu d'histoire~~](/1/histoire.md)
+  - [Un peu d'histoire](/1/histoire.md)
   - [~~Conséquence~~](/1/consequence.md)
   - [~~Obsolescence logicielle~~](/1/obsolescencelogicielle.md)
 
