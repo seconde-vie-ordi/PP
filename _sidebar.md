@@ -4,13 +4,13 @@
 
   - [Qu'est ce que c'est?](/1/description.md)
   - [Un peu d'histoire](/1/histoire.md)
-  - [~~Conséquence~~](/1/consequence.md)
-  - [~~Obsolescence logicielle~~](/1/obsolescencelogicielle.md)
+  - [Conséquence](/1/consequence.md)
+  - [Obsolescence logicielle](/1/obsolescencelogicielle.md)
 
 - **Le logiciel libre**
   - [~~C'est quoi un logiciel libre?~~](/2/description.md)
   - [~~Avant~~](/2/avant.md)
-  - [~~Le future~~](/2/futur.md)
+  - [~~Le futur~~](/2/futur.md)
 
 - **Guide basique sur Linux**
   - [C'est quoi Linux?](/3/linux.md)
