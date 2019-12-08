@@ -8,8 +8,9 @@
   - [Obsolescence logicielle](/1/obsolescencelogicielle.md)
 
 - **Le logiciel libre**
-  - [~~C'est quoi un logiciel libre?~~](/2/description.md)
-  - [~~Avant~~](/2/avant.md)
+  - [C'est quoi un logiciel libre?](/2/description.md)
+  - [Les avantages et les inconvénients](/2/comparaison.md)
+  - [~~L'histoire du logiciel libre~~](/2/histoire.md)
   - [~~Le futur~~](/2/futur.md)
 
 - **Guide basique sur Linux**
