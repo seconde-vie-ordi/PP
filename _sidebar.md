@@ -10,8 +10,7 @@
 - **Le logiciel libre**
   - [C'est quoi un logiciel libre?](/2/description.md)
   - [Les avantages et les inconvénients](/2/comparaison.md)
-  - [~~L'histoire du logiciel libre~~](/2/histoire.md)
-  - [~~Le futur~~](/2/futur.md)
+  - [L'histoire du logiciel libre](/2/histoire.md)
 
 - **Guide basique sur Linux**
   - [C'est quoi Linux?](/3/linux.md)
