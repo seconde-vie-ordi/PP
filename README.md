@@ -2,13 +2,13 @@
 Si vous avez besoin d'aide n'hésitez pas à venir me poser des questions en appuyant sur le bouton <a id="aide" href='https://discord.gg/EGntMDp' target='blank'>🚑 Aide</a>.
 
 
-### [~~L'obsolescence programmée~~](1/description.md)
+### [L'obsolescence programmée](1/description.md)
 
-~~Cette section démystifie le phénomène de l'obsolescence programmée et son histoire.~~
+Cette section démystifie le phénomène de l'obsolescence programmée et son histoire.
 
-### [~~Le logiciel libre~~](2/description.md)
+### [Le logiciel libre](2/description.md)
 
-~~Cette section explique la philosophie du logiciel libre et son histoire.~~
+Cette section explique la philosophie du logiciel libre et son histoire.
 
 ### [Guide basique de Linux](3/linux.md)
 
