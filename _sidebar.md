@@ -24,4 +24,6 @@
   - [Utiliser Libreoffice](/4/libreoffice.md)
   - [Utiliser Gimp](/4/gimp.md)
   - [Applications Android](/4/android.md)
-  - [Applications Windows](4/wine.md)
+  - [Applications Windows](/4/wine.md)
+
+[Bibliographie](/bibliographie.md)
