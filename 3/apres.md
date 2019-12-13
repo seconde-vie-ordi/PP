@@ -1,6 +1,8 @@
 ## Mettre à jour
 1. Cliquer sur _Mettre à jour_ lorsque vous recevez la notification de mise à jour. Sinon, vous pouvez cliquer sur l'icône qui apparaît lorsqu'une mise à jour est disponible.
 2. Appuyer sur le bouton _Tout mettre à jour_ dans la fenêtre qui vient d'apparaître.
+
+
 ![Notification](../3/image/notificationmiseajour.png)
 ![Bouton de mise à jour](../3/image/miseajour.png)
 

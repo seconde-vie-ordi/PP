@@ -1,6 +1,7 @@
 ## Les ampoules
 Au début des années 1900, la longévité des ampoules ne cessaient de s'accroître, mais c'était un problème pour les entreprises qui faisaient des ampoules, parce que les gens n'avait pas à acheter des ampoules régulièrement. C'est pourquoi ces entreprises ont décidés de réduire la durée de vie des ampoules de 2500h à 1000h. C'est la naissance de l'obsolescence programmée. La preuve, il existe une ampoule dans la caserne de Livermore en Californie qui brille depuis plus de 115 ans (voir image ci-dessous).
 
+
 ![ampoule](../1/image/ampoule.jpg)
 
 ## Les bas de nylon

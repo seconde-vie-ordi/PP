@@ -17,9 +17,13 @@ Libreoffice peut lire et modifier les documents Word (.docx), mais il peut y avo
 sudo apt install ttf-mscorefonts-installer
 ```
 3. Quand vous verrez les images ci-dessous, appuyer sur la touche ENTER pour accepter et TAB pour changer de choix.
+
+
 ![Image 1](../4/image/msfont1.png)
 ![Image 2](../4/image/msfont2.png)
 
 ## Adapter l'interface.
 Pour adapter l'interface pour qu'elle ressemble à Word, il suffit de sélectionner le mode onglet dans le menu _Affichage_>_Interface utilisateur_ en haut de l'écran.
+
+
 ![changement interface](../4/image/changeaffichage.png)

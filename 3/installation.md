@@ -13,10 +13,14 @@
 !> Faites attention l'étape 3 va effacer toutes les données sur la clé USB.
 
 3. Utiliser Etcher pour créer une clé USB d'installation.
+
+
 ![Etcher](../3/image/etcher.png)
 ## Démarrer à partir de cette clé
 4. Brancher la clé USB d'installation dans l'ordinateur auquel vous voulez donner une seconde vie.
 5. Redémarrer l'ordinateur et lors du démarrage repérer la touche pour le **boot menu** lorsque vous voyez le logo en plein écran de la marque de votre ordinateur. (Elle varie d'un ordinateur à l'autre) Si vous ne la trouvez pas voici [une liste des touches](https://pc83.fr/tools/liste-bios-key-boot-menu-key.html).
+
+
 ![Exemple](../3/image/boot.jpg)
 6. Appuyer sur cette touche et vous verrez un menu avec les différents choix de démarrage, sélectionner la clé USB avec les flèches du clavier et appuyer sur la touche enter.
 
